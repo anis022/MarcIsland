@@ -1,0 +1,112 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>An animated avatar of a modern Arabian girl. She is part of a series of avatars.</p><p></p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/305e3ac1-78cb-4042-ac5a-ab1499a72618/8c62c971-945a-499f-be80-8a5bf7629fe9.jpeg",
+		"publishedAt": "2025-01-17T15:09:45.835962Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/c002ab7f-4bc2-45b8-ae5d-b3fc42dbcc5c/aca9ff37-d050-465b-9d65-b901508a4b66.jpeg",
+		"title": "Arabian Girl - Animated",
+		"uid": "0ee583de-c87c-45cc-89e5-2ac17b1346be",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "Tony Flanagan",
+			"uid": "cb92b907-29e2-49cc-b156-4346d6df9ec4"
+		},
+		"tags": [
+			{
+				"name": "Arabia",
+				"slug": "arabia",
+				"uid": "03e6030b-219b-4ab1-b802-b7b1e22a2b81"
+			},
+			{
+				"name": "Female",
+				"slug": "female",
+				"uid": "86c64305-570d-43b7-9655-20013cb74c9a"
+			},
+			{
+				"name": "Avatar",
+				"slug": "avatar",
+				"uid": "a8ba1d65-5695-445b-8345-9c6c1d09545f"
+			},
+			{
+				"name": "Rigged",
+				"slug": "rigged",
+				"uid": "c5c1f70c-aabe-41d4-bd3a-e7e00ab60f0c"
+			},
+			{
+				"name": "Girl",
+				"slug": "girl",
+				"uid": "c6506b5b-2ee5-4711-97bb-33a2cc6e8458"
+			},
+			{
+				"name": "Character",
+				"slug": "character",
+				"uid": "f07e8c06-66ed-4396-81cf-108f0afcb6d6"
+			}
+		],
+		"category":
+		{
+			"name": "Characters & Creatures",
+			"path": "characters-creatures",
+			"slug": "characters-creatures",
+			"uid": "358f4f32-1ca9-42ec-9be6-24303e41b412"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Blender",
+					"groupName": "3D DCC Formats",
+					"code": "blender",
+					"icon": "blender",
+					"extensions": [
+						"blend"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "8e5e9f54-901c-4fe3-b526-c4815bafa4c1",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "UE_5.7",
+	"quality": "",
+	"format": "glb",
+	"fileId": "7bf2a89c-f319-4255-a897-6e20186f660b",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "8e5e9f54-901c-4fe3-b526-c4815bafa4c1",
+	"invertedNormal": false,
+	"isConverted": true,
+	"isQuixel": false
+}

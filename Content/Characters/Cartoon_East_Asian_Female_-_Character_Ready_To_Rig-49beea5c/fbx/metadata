@@ -1,0 +1,132 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Add this Cartoon East Asian Female - Character Ready To Rig to your scene.</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": true,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/b034e34a-d965-4ced-aefd-a0fb21438c50/4c5c2129-c0fd-4a53-98d0-65e07609ff3a.jpg",
+		"publishedAt": "2025-08-16T15:24:09.092790Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/f925a169-dc73-44f0-8a69-3bbbc857d87a/e87d0d58-1f04-4dd0-8965-3680152abc56.jpg",
+		"title": "Cartoon East Asian Female - Character Ready To Rig",
+		"uid": "49beea5c-74e3-4a3d-9aec-5565d28748e9",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-l9r67l3lh9xmnze7ds4e57w7kgmayx/cover/c55b312d.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-l9r67l3lh9xmnze7ds4e57w7kgmayx/profile/17fc5246.jpg",
+			"sellerName": "OhGrowUp",
+			"uid": "62e4e9ba-827e-488e-8995-fabd26b5cb2f"
+		},
+		"tags": [
+			{
+				"name": "Lady",
+				"slug": "lady",
+				"uid": "166178e6-489b-4122-a1ac-8dd64d83177e"
+			},
+			{
+				"name": "Person",
+				"slug": "person",
+				"uid": "17adb2e5-e813-4de9-87ef-850b0034f026"
+			},
+			{
+				"name": "Female",
+				"slug": "female",
+				"uid": "86c64305-570d-43b7-9655-20013cb74c9a"
+			},
+			{
+				"name": "Rig",
+				"slug": "rig",
+				"uid": "9f01746e-fd05-4ce2-9e0a-150039ab80bb"
+			},
+			{
+				"name": "Woman",
+				"slug": "woman",
+				"uid": "a4504020-702c-4468-8046-0a5c9c6edadf"
+			},
+			{
+				"name": "Player",
+				"slug": "player",
+				"uid": "ad2a0af2-e16e-4002-946c-a12da0dc3ad8"
+			},
+			{
+				"name": "Girl",
+				"slug": "girl",
+				"uid": "c6506b5b-2ee5-4711-97bb-33a2cc6e8458"
+			},
+			{
+				"name": "Human",
+				"slug": "human",
+				"uid": "cbc60226-383b-49fc-bc12-fde398c13fba"
+			},
+			{
+				"name": "School",
+				"slug": "school",
+				"uid": "eccf63f5-f96f-41ed-8a00-891761792fcd"
+			},
+			{
+				"name": "Character",
+				"slug": "character",
+				"uid": "f07e8c06-66ed-4396-81cf-108f0afcb6d6"
+			}
+		],
+		"category":
+		{
+			"name": "Characters & Creatures",
+			"path": "characters-creatures",
+			"slug": "characters-creatures",
+			"uid": "358f4f32-1ca9-42ec-9be6-24303e41b412"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "928787f4-1191-47cd-9ac1-aac9e5cd2729",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "UE_5.7",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "6c416373-6e09-4373-b047-3ff4eda60b93",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "928787f4-1191-47cd-9ac1-aac9e5cd2729",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

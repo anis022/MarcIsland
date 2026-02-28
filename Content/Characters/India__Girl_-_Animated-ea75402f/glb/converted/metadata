@@ -1,0 +1,147 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 5,
+		"createdAt": "",
+		"description": "<p>A beautiful Indian girl.</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/aeb5cce1-f292-4b8d-a2ee-bd03a8888272/9324b261-ed76-4ed4-b173-606eaafa8b9a.jpeg",
+		"publishedAt": "2025-01-15T12:04:27.280175Z",
+		"reviewCount": 1,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/66fe399b-38b4-4fea-96e0-2622a809d6b1/40ff438e-3dda-42a5-ae6c-7156895d7616.jpeg",
+		"title": "India  Girl - Animated",
+		"uid": "ea75402f-af85-4cb4-be25-1f8d41422862",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "Tony Flanagan",
+			"uid": "cb92b907-29e2-49cc-b156-4346d6df9ec4"
+		},
+		"tags": [
+			{
+				"name": "Indian",
+				"slug": "indian",
+				"uid": "0317808f-c176-420e-98a5-a136e8b38ec7"
+			},
+			{
+				"name": "Cycle",
+				"slug": "cycle",
+				"uid": "12723e93-7809-4209-a4e1-6ac3102f2716"
+			},
+			{
+				"name": "Beauty",
+				"slug": "beauty",
+				"uid": "6740f666-2ada-4e94-b211-a039634ccfac"
+			},
+			{
+				"name": "Walkcycle",
+				"slug": "walkcycle",
+				"uid": "6777c265-589b-422a-aad8-ced8e8f7337f"
+			},
+			{
+				"name": "Female",
+				"slug": "female",
+				"uid": "86c64305-570d-43b7-9655-20013cb74c9a"
+			},
+			{
+				"name": "Animated",
+				"slug": "animated",
+				"uid": "8e61a209-4e02-4dd1-8e44-cc2bf9356e7a"
+			},
+			{
+				"name": "Woman",
+				"slug": "woman",
+				"uid": "a4504020-702c-4468-8046-0a5c9c6edadf"
+			},
+			{
+				"name": "Avatar",
+				"slug": "avatar",
+				"uid": "a8ba1d65-5695-445b-8345-9c6c1d09545f"
+			},
+			{
+				"name": "Walk",
+				"slug": "walk",
+				"uid": "c0160e1c-11ef-4d1b-a2bd-6085d0e0e95e"
+			},
+			{
+				"name": "Rigged",
+				"slug": "rigged",
+				"uid": "c5c1f70c-aabe-41d4-bd3a-e7e00ab60f0c"
+			},
+			{
+				"name": "Girl",
+				"slug": "girl",
+				"uid": "c6506b5b-2ee5-4711-97bb-33a2cc6e8458"
+			},
+			{
+				"name": "Indie",
+				"slug": "indie",
+				"uid": "db7e1df9-4179-48d7-bb36-db4e38d74233"
+			},
+			{
+				"name": "Character",
+				"slug": "character",
+				"uid": "f07e8c06-66ed-4396-81cf-108f0afcb6d6"
+			}
+		],
+		"category":
+		{
+			"name": "Characters & Creatures",
+			"path": "characters-creatures",
+			"slug": "characters-creatures",
+			"uid": "358f4f32-1ca9-42ec-9be6-24303e41b412"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Blender",
+					"groupName": "3D DCC Formats",
+					"code": "blender",
+					"icon": "blender",
+					"extensions": [
+						"blend"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "6e119752-96a7-4a1b-b0d6-38c42db4cd0d",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "UE_5.7",
+	"quality": "",
+	"format": "glb",
+	"fileId": "a95e33c0-0ef8-4634-8106-aa0f0b4a33c7",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "6e119752-96a7-4a1b-b0d6-38c42db4cd0d",
+	"invertedNormal": false,
+	"isConverted": true,
+	"isQuixel": false
+}
