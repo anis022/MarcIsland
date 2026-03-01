@@ -1,0 +1,157 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>This small piece of work is a model used as an illustration. \nArrows rising upward represent increasing financial gains.\nIt can be used to describe many scenarios, such as symbolizing growth in wealth, economy or market share.</p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/4cbbc852-750c-4a79-9cf6-22beab97a3e5/36002313-a4f7-48df-9725-2796a98f81c0.jpeg",
+		"publishedAt": "2024-10-23T16:14:20.384171Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/269a0737-a9c4-40ef-9d73-fd859e8a3d74/e99976a6-1eb4-42a4-986c-d452e0f6ffea.jpeg",
+		"title": "Growth of coins, money and wealth",
+		"uid": "0d5eb7ad-fecc-4204-889d-c9b1ca5cf4d9",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-clped47tfmwvuqsrnyn8e3h6fp4p4w/profile/b8add731.jpg",
+			"sellerName": "WinterX",
+			"uid": "ec8d71e3-44de-4f8e-8656-0e23b570fc37"
+		},
+		"tags": [
+			{
+				"name": "Economy",
+				"slug": "economy",
+				"uid": "3ca14349-cc2e-41bd-ae0b-487feb822382"
+			},
+			{
+				"name": "Avenue",
+				"slug": "avenue",
+				"uid": "49d7daa8-06ff-4e12-a192-7e05cd89d855"
+			},
+			{
+				"name": "Coin",
+				"slug": "coin",
+				"uid": "4bacbc43-6707-4588-a036-10e3220d9758"
+			},
+			{
+				"name": "Business",
+				"slug": "business",
+				"uid": "4bd51d92-f066-4bf5-925c-a0a2ae3f7e35"
+			},
+			{
+				"name": "Wealth",
+				"slug": "wealth",
+				"uid": "5d2af0fd-e224-4fa3-a005-2faafdd7cd41"
+			},
+			{
+				"name": "Market",
+				"slug": "market",
+				"uid": "664e05ce-da40-4478-90b2-cfe5331e2e87"
+			},
+			{
+				"name": "Learning",
+				"slug": "learning",
+				"uid": "6f26b2da-b942-44dd-8fe6-3915553535c6"
+			},
+			{
+				"name": "Growth",
+				"slug": "growth",
+				"uid": "77f6c89a-09a8-4b42-bc9a-3fdc887b4d91"
+			},
+			{
+				"name": "Gold",
+				"slug": "gold",
+				"uid": "9971e7e0-9f10-4129-b20f-8723ce6e6f56"
+			},
+			{
+				"name": "Money",
+				"slug": "money",
+				"uid": "9cac5b6d-1fa6-4596-b9a8-3d548a37e27f"
+			},
+			{
+				"name": "Planetary",
+				"slug": "planetary",
+				"uid": "af9b95e1-a406-410d-b8bb-56fa778d6ff4"
+			},
+			{
+				"name": "Rich",
+				"slug": "rich",
+				"uid": "b230111d-9e6d-4deb-9032-3fb8210a2f19"
+			},
+			{
+				"name": "Cash",
+				"slug": "cash",
+				"uid": "dcd1980c-1afa-46a8-8d71-527068b871b1"
+			},
+			{
+				"name": "Golden",
+				"slug": "golden",
+				"uid": "ef52d131-f00b-43c5-90d9-8003c36a6475"
+			},
+			{
+				"name": "Dollar",
+				"slug": "dollar",
+				"uid": "f2a27d65-adb2-4b8c-9815-13bcd333e5af"
+			}
+		],
+		"category":
+		{
+			"name": "Art & Statues",
+			"path": "objects-decor/art-statues",
+			"slug": "objects-decor--art-statues",
+			"uid": "b2043d1b-0579-419a-a99e-5fbffc8a21c5"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "993765ba-fa05-4f6b-a959-25d0cc677a2e",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "UE_5.7",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "2fb35c1d-27cb-4460-b397-6ab3fffdc580",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "993765ba-fa05-4f6b-a959-25d0cc677a2e",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

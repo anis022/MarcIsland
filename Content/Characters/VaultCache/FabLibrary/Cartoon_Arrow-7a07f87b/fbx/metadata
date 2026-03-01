@@ -1,0 +1,97 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>arrow lowpoly</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/b1ec7945-eea3-49e2-9b9f-d092d1ffc2df/93038821-87a5-416b-9602-25eca882a976.jpeg",
+		"publishedAt": "2025-02-21T09:46:57.927177Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/5fb2d924-e3ac-4247-86d9-5d3dbb732a1d/61c7543d-6262-4046-9313-806c29f91717.jpeg",
+		"title": "Cartoon Arrow",
+		"uid": "7a07f87b-feb1-415e-86cb-4c7320151ca7",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cabr5t4fvf2aywkxvtfzrjhcjjrjzv/cover/ed171375.png",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cabr5t4fvf2aywkxvtfzrjhcjjrjzv/profile/abf4b9d6.png",
+			"sellerName": "Anka Inoplanetyanka",
+			"uid": "9637c416-cd17-49a9-a1d5-1a82d674edaa"
+		},
+		"tags": [
+			{
+				"name": "Arrow",
+				"slug": "arrow",
+				"uid": "089670ca-1697-4a06-95c6-79316851d57a"
+			},
+			{
+				"name": "Lowpoly",
+				"slug": "lowpoly",
+				"uid": "451806dc-649e-43b7-9c2e-a54485de14b6"
+			},
+			{
+				"name": "Cartoon",
+				"slug": "cartoon",
+				"uid": "8bc8f154-d25c-419b-8ae1-740693004da5"
+			}
+		],
+		"category":
+		{
+			"name": "Art & Statues",
+			"path": "objects-decor/art-statues",
+			"slug": "objects-decor--art-statues",
+			"uid": "b2043d1b-0579-419a-a99e-5fbffc8a21c5"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "46123357-36a8-4f19-bef3-aa307380699e",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "UE_5.7",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "f1a38b8a-00a4-4cb8-a841-a78338e8b186",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "46123357-36a8-4f19-bef3-aa307380699e",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
